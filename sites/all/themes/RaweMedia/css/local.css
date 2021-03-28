@@ -1,0 +1,564 @@
+/****************************/
+/* LOCAL CSS                */
+/****************************/
+
+/* custom fonts */
+
+@font-face {font-family: 'Museo-500';src: url('../webfonts/2445F1_0_0.eot');src: url('../webfonts/2445F1_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/2445F1_0_0.woff') format('woff'),url('../webfonts/2445F1_0_0.ttf') format('truetype');
+}
+
+@font-face {font-family: 'Calluna-Regular';src: url('../webfonts/2445FF_0_0.eot');src: url('../webfonts/2445FF_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/2445FF_0_0.woff') format('woff'),url('../webfonts/2445FF_0_0.ttf') format('truetype');
+}
+
+/* Body stylings global */
+
+
+#header-site-info {
+	width: auto;
+	margin-top:60px;
+}
+
+body 	{
+	background:url(../images/rawemedia.gif) top left repeat-x;
+	margin-top: 40px;
+	font-family: Arial,Helvetica,Tahoma,Verdana;
+    	color:#333;
+    	line-height:125%;
+}
+#logo 	{
+    	float: left;
+    	margin-right: 20px;
+    	margin-top:0px;
+}
+DIV#block-system-main DIV.gutter.inner.clearfix {
+	font-size: 14px;
+	line-height: 18px;
+	margin:0px;
+	padding-top: 0px;
+	padding-left: 15px;
+	padding-right: 25px;
+}	
+DIV#footer-wrapper {
+    	background-color: rgb(142, 147, 141);
+    	width: auto;
+    	padding: 20px;
+    	color: rgb(238, 238, 238);
+}
+
+DIV#block-views-top_header_slideshow-block_1 SPAN.views-field.views-field-field-top-header-slogan {
+	font-family: 'Museo-500',arial,sans-serif;
+	font-size: 26px;
+	line-height: 38px;
+	padding:0px 0 0 45px;
+	background:url(../images/bullet-checkmark.gif) top left no-repeat;
+	width: 500px;
+	position:absolute;
+	left:30px;
+	top:150px;
+	color: #fff;
+}
+DIV#block-views-top_header_slideshow-block_1 {
+	position:relative;
+	top:-15px;	
+}
+DIV#header-site-info h2 {
+	font-family: 'Museo-500',arial,sans-serif;
+	padding: 10px 0 0 0px;
+	font-size: 20px;
+	line-height: 22px;
+}
+
+DIV#block-block-4 DIV.gutter.inner.clearfix {
+	width: 400px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+DIV#content-region-inner h1 {
+	font-family: 'Museo-500',arial,sans-serif;
+	padding: 10px 0 0 0px;
+	font-size: 24px;
+	line-height: 25px;
+}
+/* main menu */
+
+DIV#block-system-main-menu DIV.gutter.inner.clearfix ul.menu {
+	margin-top: 30px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	float: left;
+	font-size: 13px;
+	line-height: 13px;
+	text-decoration: none;
+	color: #333;
+	font-family: 'Museo-500',arial,sans-serif;
+}
+DIV#block-system-main-menu DIV.gutter.inner.clearfix ul.menu li {
+	border-right-width:0px;
+}
+DIV#block-system-main-menu DIV.gutter.inner.clearfix ul.menu a {
+	text-decoration: none;
+	margin:0px;
+	color: #333;
+}
+DIV#block-system-main-menu DIV.gutter.inner.clearfix ul.menu a:hover {
+	color:#fff;
+ 	text-decoration:none;
+}
+.block-nice_menus-1 {
+	background-image:none;
+}
+/* sidebar */
+
+DIV#sidebar-second DIV#sidebar-second-inner {
+	background:none repeat scroll 0% 0% rgb(227, 239, 248);
+	padding:0px;
+	margin:0px;
+	width: 240px;
+}
+DIV.view.view-testimonials ul {
+	margin-left:0px;
+	list-style-type: none;
+}
+
+DIV#block-formblock-contact_site h2, DIV#block-views-testimonials-block h2, DIV#block-block-4 h2 {
+	font-family: 'Museo-500',arial,sans-serif;
+	color: #333;
+	font-size: 20px;
+	line-height: 22px;
+	padding: 10px 0 0 0;
+}
+blockquote {
+	font-family: 'Calluna-Regular',arial,sans-serif;
+    	font-style: italic;
+    	font-size: 1.2em;
+    	line-height: 1.5em;
+	width: 200px;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* page carousel */
+
+.jcarousel-skin-tango .jcarousel-item {
+    	padding: 0px;
+    	width: 600px;
+    	height: 300px;
+    	overflow: hidden;
+    	border: 0px solid;
+    	list-style: none outside none;
+    	background: none repeat scroll 0% 0%;
+}
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    	width: 500px;
+    	overflow: hidden;
+}
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    	width: 500px;
+    	height: 300px;
+    	padding: 20px 40px;
+    	margin: auto;
+}
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    	position: absolute;
+    	top: 160px;
+    	right: 5px;
+    	background-position: 0px -32px;
+}
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+   	position: absolute;
+   	top: 160px;
+    	left: 5px;
+    	background-position: 0px 0px;
+}
+.jcarousel-skin-tango .jcarousel-container {
+	border-radius: 10px 10px 10px 10px;
+    	background: none repeat scroll 0% 0% rgb(227, 239, 248);
+    	border: 0px solid;
+    	margin: 0px;
+    	height: 320px;
+}
+
+/* footer styling */
+
+P.meaning a {
+	color: #fff;
+}
+
+.block ol {
+margin-left: 0em;
+padding: 0;
+}
+/*
+  This file contains the basic logic for nice menus, and should not be
+  edited.  To customize the menus, it's recommended to create a custom CSS
+  file using nice_menus_default.css as a template, then configure the module
+  to use your custom CSS file (this is done in the global settings tab of
+  the theme administration.)
+*/
+
+/* Below should fix menu being a few pixels away in some themes, and menus disappearing behind other stuff. */
+.block-nice-menus {
+  line-height: normal;
+  z-index: 10;
+	font-family: museo-500;
+}
+
+ul.nice-menu,
+ul.nice-menu ul {
+  z-index: 5;
+  position: relative;
+}
+
+ul.nice-menu li {
+  position: relative;
+}
+
+ul.nice-menu a {
+  display: block;
+  /*Default to Blue, but override as necessary*/
+  color: #000000;
+}
+
+ul.nice-menu a:link, a:visited {
+	text-decoration: none;	
+}
+
+ul.nice-menu ul,
+/* For Garland header. */
+#header-region ul.nice-menu ul {
+  position: absolute;
+  visibility: hidden;
+}
+
+ul.nice-menu li.over ul {
+  visibility: visible;
+}
+
+ul.nice-menu ul li {
+  display: block;
+}
+
+ul.nice-menu:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+/* Show submenus when over their parents. */
+ul.nice-menu li:hover ul,
+ul.nice-menu li.menuparent li:hover ul,
+ul.nice-menu li.menuparent li.menuparent li:hover ul,
+ul.nice-menu li.menuparent li.menuparent li.menuparent li:hover ul,
+ul.nice-menu li.over ul,
+ul.nice-menu li.menuparent li.over ul,
+ul.nice-menu li.menuparent li.menuparent li.over ul,
+ul.nice-menu li.menuparent li.menuparent li.menuparent li.over ul,
+/* Repeat all this stuff just for Garland headers. */
+#header-region ul.nice-menu li:hover ul,
+#header-region ul.nice-menu li.menuparent li:hover ul,
+#header-region ul.nice-menu li.menuparent li.menuparent li:hover ul,
+#header-region ul.nice-menu li.over ul,
+#header-region ul.nice-menu li.menuparent li.over ul,
+#header-region ul.nice-menu li.menuparent li.menuparent li.over ul {
+  visibility: visible;
+}
+
+/* Hide sub-menus initially. */
+ul.nice-menu li:hover ul ul,
+ul.nice-menu li:hover ul ul ul,
+ul.nice-menu li:hover li:hover ul ul,
+ul.nice-menu li:hover li:hover ul ul ul,
+ul.nice-menu li:hover li:hover li:hover ul ul,
+ul.nice-menu li:hover li:hover li:hover ul ul ul,
+ul.nice-menu li.over ul ul,
+ul.nice-menu li.over ul ul ul,
+ul.nice-menu li.over li.over ul ul,
+ul.nice-menu li.over li.over ul ul ul,
+ul.nice-menu li.over li.over li.over ul ul,
+ul.nice-menu li.over li.over li.over ul ul ul,
+/* Repeat all this stuff just for Garland headers. */
+#header-region ul.nice-menu li:hover ul ul,
+#header-region ul.nice-menu li:hover ul ul ul,
+#header-region ul.nice-menu li:hover li:hover ul ul,
+#header-region ul.nice-menu li:hover li:hover ul ul ul,
+#header-region ul.nice-menu li:hover li:hover li:hover ul ul,
+#header-region ul.nice-menu li:hover li:hover li:hover ul ul ul,
+#header-region ul.nice-menu li.over ul ul,
+#header-region ul.nice-menu li.over ul ul ul,
+#header-region ul.nice-menu li.over li.over ul ul,
+#header-region ul.nice-menu li.over li.over ul ul ul,
+#header-region ul.nice-menu li.over li.over li.over ul ul,
+#header-region ul.nice-menu li.over li.over li.over ul ul ul {
+  visibility: hidden;
+}
+
+/***************
+ IE 6 Fixes
+***************/
+
+/* Iframe to fix z-index bug when menu hovers over <select> fields. */
+ul.nice-menu li.menuparent ul,
+/* For Garland header. */
+#header-region ul.nice-menu li.menuparent ul {
+  overflow: visible !important;
+}
+
+ul.nice-menu li.menuparent ul iframe,
+/* For Garland header. */
+#header-region ul.nice-menu li.menuparent ul iframe {
+  display: none;
+  display/**/: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  filter: mask();
+  width: 20px;
+  height: 40px;
+}
+
+/*
+  This is the default layout template for nice menus, and will provide
+  a starting point for the look of your menus. To customize, it's
+  recommended to create a custom CSS file using this file as a template,
+  then configure the module to use your custom CSS file
+  (this is done in the global settings tab of the theme administration.)
+
+  See README.txt and the handbook page (http://drupal.org/node/185543)
+  for more information on using the CSS.
+*/
+
+/******************************
+ Global CSS for ALL menu types
+******************************/
+
+ul.nice-menu,
+ul.nice-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-top: 0px solid #ccc;
+}
+
+ul.nice-menu li {
+  border: 0px solid #ccc;
+  border-top: 0;
+  float: left; /* LTR */
+  background-color: none;
+}
+
+ul.nice-menu a {
+  padding: 0.3em 9px 0.3em 9px;
+}
+
+ul.nice-menu ul {
+  top: 1.8em;
+  left: -1px; /* LTR */
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin-right: 0; /* LTR */
+}
+
+ul.nice-menu ul li {
+  width: 12.5em;
+}
+
+
+
+/******************************
+ VERTICAL (left/right) menus
+******************************/
+
+/* This is the default width of all vertical menus. */
+ul.nice-menu-right,
+ul.nice-menu-left,
+ul.nice-menu-right li,
+ul.nice-menu-left li {
+  width: 12.5em;
+}
+
+/* VERTICAL menus where submenus pop RIGHT (default). */
+ul.nice-menu-right ul {
+  width: 12.5em;
+  left: 12.5em;
+  top: -1px;
+}
+
+ul.nice-menu-right ul ul {
+  width: 12.5em;
+  left: 12.5em;
+  top: -1px;
+}
+
+ul.nice-menu-right li.menuparent,
+ul.nice-menu-right li li.menuparent {
+  background: #eee url("../images/arrow-right.png") right center no-repeat;
+}
+
+ul.nice-menu-right li.menuparent:hover,
+ul.nice-menu-right li li.menuparent:hover {
+  background: #ccc url("../images/arrow-right.png") right center no-repeat;
+}
+
+/* VERTICAL menus where submenus pop LEFT. */
+ul.nice-menu-left li ul {
+  width: 12.5em;
+  left: -12.65em;
+  top: -1px;
+}
+
+ul.nice-menu-left li ul li ul {
+  width: 12.5em;
+  left: -12.65em;
+  top: -1px;
+}
+
+ul.nice-menu-left li.menuparent,
+ul.nice-menu-left li li.menuparent {
+  background: #eee url("../images/arrow-left.png") left center no-repeat;
+}
+
+ul.nice-menu-left li.menuparent:hover,
+ul.nice-menu-left li li.menuparent:hover {
+  background: #ccc url("../images/arrow-left.png") left center no-repeat;
+}
+
+ul.nice-menu-left a,
+ul.nice-menu-left ul a {
+  padding-left: 14px;
+}
+
+/******************************
+ HORIZONTAL (down) menus
+******************************/
+
+ul.nice-menu-down {
+  float: left; /* LTR */
+  border: 0;
+}
+
+ul.nice-menu-down li {
+  border-top: 0px solid #ccc;
+}
+
+ul.nice-menu-down li li {
+    border-top: 0px none;
+    background-color: grey;
+    width: 100%;
+}
+
+ul.nice-menu-down ul {
+  left: 0; /* LTR */
+}
+
+ul.nice-menu-down ul li {
+  clear: both;
+}
+
+ul.nice-menu-down li ul li ul {
+  left: 12.5em; /* LTR */
+  top: -1px;
+}
+
+ul.nice-menu-down .menuparent a {
+  padding-right: 15px; /* LTR */
+}
+
+ul.nice-menu-down li.menuparent {
+  background: #eee url("../images/arrow-down.png") right center no-repeat; /* LTR */
+}
+
+ul.nice-menu-down li.menuparent:hover {
+  background: #ccc url("../images/arrow-down.png") right center no-repeat; /* LTR */
+}
+
+ul.nice-menu-down li li.menuparent {
+  background: #eee url("../images/arrow-right.png") right center no-repeat; /* LTR */
+}
+
+ul.nice-menu-down li li.menuparent:hover {
+  background: #ccc url("../images/arrow-right.png") right center no-repeat; /* LTR */
+}
+
+/******************************
+ Garland-specific CSS
+******************************/
+
+/**
+ * Global CSS for ALL menu types
+ */
+ul.nice-menu li {
+  margin: 0;
+  padding-left: 0; /* LTR */
+  background-image: none;
+}
+
+#header-region ul.nice-menu li {
+  margin: 0;
+  /* Padding rules are needed to deal with Garland's header line-height. */
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  background: #eee;
+}
+
+#header-region ul.nice-menu ul {
+  top: 1.8em;
+  left: -1px; /* LTR */
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin-right: 0; /* LTR */
+}
+
+#header-region ul.nice-menu ul {
+  top: 1.7em;
+}
+
+/**
+ * HORIZONTAL (down) menus
+ */
+#header-region ul.nice-menu-down li ul li ul {
+  left: 12.5em; /* LTR */
+  top: -1px;
+}
+
+#header-region ul.nice-menu-down li.menuparent {
+  background: #eee url("../images/arrow-down.png") right center no-repeat; /* LTR */
+}
+
+#header-region ul.nice-menu-down li.menuparent:hover {
+  background: #ccc url("../images/arrow-down.png") right center no-repeat; /* LTR */
+}
+
+#header-region ul.nice-menu-down li li.menuparent {
+  background: #eee url("../images/arrow-right.png") right center no-repeat; /* LTR */
+}
+
+#header-region ul.nice-menu-down li li.menuparent:hover {
+  background: #ccc url("../images/arrow-right.png") right center no-repeat; /* LTR */
+}
+
+SPAN.views-field.views-field-field-site-synopsis {
+    float: left;
+    width: 300px;
+	padding-left:10px;
+	font-size: 16px;
+	line-height: 20px;
+}
+SPAN.views-field.views-field-field-website-image {
+    float: left;
+}
+DIV.views-field.views-field-title {
+    font-size: 22px;
+    padding-bottom: 10px;
+	padding-top: 23px;
+}
+div.node {
+    margin-bottom: 0;
+}
+#block-social_media_links-social-media-links {
+	padding-top:10px;	
+}

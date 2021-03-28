@@ -1,0 +1,778 @@
+
+@font-face {font-family:'Century-Gothic';src:url("http://www.airsportsnetwork.com/sites/all/themes/airsports/fonts/century_gothic.eot");src:url("http://www.airsportsnetwork.com/sites/all/themes/airsports/fonts/century_gothic.woff") format("woff"),url("http://www.airsportsnetwork.com/sites/all/themes/airsports/fonts/century_gothic.ttf") format("truetype"),url("http://www.airsportsnetwork.com/sites/all/themes/airsports/fonts/century_gothic.svg") format("svg");font-weight:normal;font-style:normal
+}
+@font-face {font-family:'Century-Gothic';src:url("http://www.airsportsnetwork.co.uk/sites/all/themes/airsports/fonts/century_gothic.eot");src:url("http://www.airsportsnetwork.co.uk/sites/all/themes/airsports/fonts/century_gothic.woff") format("woff"),url("http://www.airsportsnetwork.co.uk/sites/all/themes/airsports/fonts/century_gothic.ttf") format("truetype"),url("http://www.airsportsnetwork.co.uk/sites/all/themes/airsports/fonts/century_gothic.svg") format("svg");font-weight:normal;font-style:normal
+}
+body { font-family: "Century-Gothic";
+    font-size: 13px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+ }
+.logo img {
+max-width: 100%;
+}
+
+div#node-47 .field-name-field-main-image {
+    display: none;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 5px;
+    padding-left: 15px;
+}
+
+div.node-3 {
+    padding-right: 0px;
+    padding-left: 12px;
+}
+.casetitle h2 {
+    font-size: 22px;
+    font-family: "Century-Gothic";
+    color: #333;
+}
+h2.newshead {
+   font-size: 18px;
+    font-family: "Century-Gothic";
+    color: #333;
+    text-align: right;
+    width: 620px;
+    float: right;
+}
+h2.studieshead {
+   font-size: 18px;
+    font-family: "Century-Gothic";
+    color: #333;
+    text-align: right;
+    width: 100%;
+    float: right;
+}
+img {
+    vertical-align: middle;
+}
+.node-studies img {
+    vectical-align: middle;
+}
+#block-block-3 {
+    
+}
+.field-name-field-main-image img {
+    width: 100%;
+    height: auto;
+}
+.field-name-field-main-image {
+    float: right;
+    margin:3px;
+    box-shadow: 2px 2px 2px 2px #ccc;
+    padding: 4px;
+}
+
+.field-name-field-case-image {
+    float: left;
+    box-shadow: 2px 2px 2px 2px #ccc;
+    padding: 4px;
+    margin: 0 0 20px 0;
+}
+.field-name-body {
+    
+}
+#block-views-news-carousel-block-1 {
+
+}
+.ds-2col-stacked > .student-text {
+    background-color: lightgray;
+    float: right;
+    padding-bottom: 40px;
+    margin: 20px 0 0 0;
+    width: 68%;
+}
+.ds-2col-stacked > .student-text h2 {
+    background-color: darkgrey;
+    color: white;
+    float: right;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    width: 94%;
+}
+.ds-2col-stacked > .student-text p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.ds-2col-stacked > .student-pic {
+    float: left;
+    width:30%;
+    margin: 20px 0 0 0;
+    font-weight: bolder;
+}
+.field-name-field-quote-text .field-items {
+    margin-top: 10px;
+}
+.pagination {
+    display: inline-block;
+    padding-left: 0px;
+    margin: 10px 0px;
+    border-radius: 4px;
+}
+#block-block-9 {
+    float: left;
+    background-color: grey;
+    height: 660px;
+    padding-right: 10px;
+    width: 360px;
+    padding-top: 100px;
+    padding-left: 10px;
+}
+#block-block-10 {
+    float: left;
+}
+#block-block-11 {
+    float: left;
+    padding-right: 1%;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+#block-block-12 {
+    float: left;
+    background-color: grey;
+    padding-right: 5%;
+    padding-left: 4%;
+    padding-top: 4%;
+    height: 450px;
+}
+.node-studies strong {
+    color: #000;
+}
+section#block-block-7 img {
+    vertical-align: middle;
+    width: 900px;
+    padding-left: 15px;
+}
+div.field.field-name-field-header-image.field-type-image.field-label-hidden {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.node-airsports strong {
+    color: #A52A2A;
+}
+.navbar.container {
+    max-width: 960px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.dropdown-menu {
+    background-clip: padding-box;
+    background-color: #A52A2A;
+    border: 0px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
+    display: none;
+    float: left;
+    font-size: 14px;
+    left: 0;
+    list-style: none outside none;
+    margin: 1px 0 0;
+    min-width: 110px;
+    padding: 1px 0;
+    position: absolute;
+    top: 100%;
+    z-index: 1000;
+}
+.dropdown-menu > li > a {
+    clear: both;
+    color: #fff;
+    display: block;
+    font-weight: normal;
+    line-height: 1.42857;
+    padding: 3px 4px 0px 14px;
+    white-space: nowrap;
+}
+.navbar.container {
+    min-width: 240px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.navbar.container {
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+.container {
+    max-width: 970px;
+}
+.navbar .logo {
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px
+}
+.navbar {
+    border-radius: 0px;
+    border:0;
+}
+.navbar-collapse {
+    box-shadow: none;
+    width: audo;
+}
+.navbar-collapse {
+    border-bottom: 0px solid transparent;
+    border-top: 0px solid transparent;
+    max-height: 1240px;
+    overflow-x: visible;
+    background-color: #be1e2d;
+    padding-right: 0px;
+    padding-left: 5px
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    background-color: #A52A2A;
+}
+.navbar-default .navbar-nav > li > a :hover{
+    color: #fff;
+    background-color: #A52A2A;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+    background-color: #A52A2A;
+}
+.navbar-default .navbar-nav > li > {
+    background-color: #9e1c2c;
+    color: white;
+}
+.navbar-nav > li {
+    float-left: 0px;
+    padding: 2px;
+}
+.navbar-nav > li > a {
+    line-height: 16px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.nav > li > a {
+    display: block;
+    padding: 4px;
+    position: relative;
+    text-align: center;
+    width: 132px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #9e1c2c;
+    color: white;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+    background-color: #9e1c2c;
+    color: #fff;
+    outline: 0 none;
+    text-decoration: none;
+}
+.navbar-default {
+    background-color: white;
+    border-color: none;
+}
+.navbar-toggle {
+    background-color: black;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    float: right;
+    left: 0%;
+    margin-bottom: 8px;
+    margin-right: 15px;
+    margin-top: 8px;
+    padding: 5px;
+    position: absolute;
+    top: 5%;
+}
+.navbar-toggle a {
+    background-color: black;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    float: right;
+    left: 0%;
+    margin-bottom: 8px;
+    margin-right: 15px;
+    margin-top: 2px;
+    padding: 5px;
+    position: absolute;
+    top: 5%;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: black;
+    border-color: #000;
+    margin-top: 8px;
+    position: absolute;
+    top: 5%;
+}
+.navbar-default .navbar-toggle {
+    background-color: black;
+    border-color: #000;
+    margin-top: 8px;
+    position: absolute;
+    top: 5%;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+ .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background-color: #A52A2A;
+    color: #333;
+    text-decoration: none;
+}
+div.contextual-links-wrapper {
+	background-color: black;
+	}
+.mainsportsarea {
+	background: #fff;
+    margin-right: 0px;
+    margin-left: -15px;
+    padding: 0px;
+}
+.mainsportsareafront {
+    background: #fff;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+.mainsportstudies {
+    background: #fff;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+.mainsportsnews {
+    background: #fff;
+    margin-right: 0px;
+    margin-left: 10px;
+    padding: 0px;
+}
+.darkbg {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.newsbg {
+    padding-left: 20px;
+    padding-right: 0px;
+    margin-right: 10px;
+    margin-left: 0px;
+    background-color: #808080;
+    height: 800px;
+    padding-top: 50px;
+}
+.newsbg a{
+    color: white;
+}
+.casebg {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+	background-color: black;
+}
+.well {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+}
+.breadcrumb {
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 0px;
+    list-style: none;
+    background-color: #000;
+    border-radius: 0px;
+}
+.mainbreadcrumb ol {
+}
+.mainbreadcrumb {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #000;
+    color: #ccc;
+}
+div.node-8 .mainsportsarea .col-sm-8 {
+    display: none;
+}
+.title {
+    font-size: 12px;
+    padding: 2px 0px 0px 5px;
+    margin: 0px;
+    color: #999;
+    font-weight: normal;
+}
+.row {
+margin-right: -10px;
+margin-left: -10px;
+background-color: white;
+}
+.footer {
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-top: 0px solid #E5E5E5;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.flexslider {
+margin: 0 0 0px;
+background: #fff;
+border: 0px solid #fff;
+position: relative;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+-o-border-radius: 4px;
+border-radius: 4px;
+-webkit-box-shadow: 0 1px 4px rgba(0,0,0,.2);
+-moz-box-shadow: 0 1px 4px rgba(0,0,0,.2);
+-o-box-shadow: 0 1px 4px rgba(0,0,0,.2);
+box-shadow: 0 1px 4px rgba(0,0,0,.2);
+zoom: 1;
+}
+
+.casing {
+    float: left;
+    width: 48%;
+    padding-bottom: 5px;
+    background-color: #D3D3D3;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 1%;
+    padding-left: 5px;
+    margin-left: 1%;
+}
+.casetitle {
+float: left;
+background-color: #666;
+margin-top: 1px;
+width: 60%;
+padding: 1%;
+}
+
+.casetitle a {
+color: white;
+text-decoration: none;
+}
+
+.caseimages {
+float: left;
+padding-right: 3%; 
+}
+
+.casemain {
+    float: left;
+    width: 60%;
+    padding-top: 3%;
+}
+
+.newsitem {
+    float: left;
+    padding-bottom: 16px;
+    background-color: #fff;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 0%;
+    padding-left: 0px;
+    margin-left: 0%;
+    border-bottom: thin solid #000;
+    width: 62%;
+}
+.newsitem:first-of-type {
+    float: left;
+    padding-bottom: 16px;
+    background-color: #fff;
+    padding-top: 35px;
+    margin-bottom: 10px;
+    margin-right: 0%;
+    padding-left: 0px;
+    margin-left: 0%;
+    border-bottom: thin solid #000;
+    width: 62%;
+}
+.newstitle {
+float: left;
+background-color: #666;
+margin-top: 1px;
+width: 61%;
+padding: 1%;
+}
+
+.newstitle a {
+color: white;
+text-decoration: none;
+}
+
+.newsimage {
+float: left;
+padding-right: 3%; 
+padding-left: 4%;
+}
+
+.newsimage img {
+    max-height: 50%; 
+}
+
+.newsbody {
+    float: left;
+    width: 61%;
+    padding-top: 3%;
+}
+
+.contactpage a {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.contactpage {
+    color: #ff0000;
+    font-weight: bold;
+}
+#node-11 img {
+    height: 80%;
+    width: 80%;
+}
+#node-25 img {
+    height: 100%;
+    width: 100%;
+}
+#node-25 p {
+    
+}
+
+@media (max-width: 764px) {
+
+body {
+    font-family: "Century-Gothic";
+    font-size: 13px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #FFF;
+    background-image: none;
+}
+#block-block-9 {
+    float: left;
+    background-color: grey;
+    height: 660px;
+    padding-right: 10px;
+    width: 100%;
+    padding-top: 100px;
+    padding-left: 10px;
+}
+.navbar {
+    border-radius: 0px;
+	position: relative;
+	min-height: 50px;
+	margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+	border: 0px solid transparent;
+}
+.mainsportsarea {
+    background: #fff;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.darkbg {
+    display: none;
+}
+.row {
+margin-right: -15px;
+margin-left: -15px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.mainbreadcrumb {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #000;
+    color: #ccc;
+    margin-top: 0px;
+}
+div.field.field-name-field-header-image.field-type-image.field-label-hidden {
+    display: none;
+}
+.field-name-field-quote-text .field-items {
+    display: none;
+}
+div.field.field-name-body.field-type-text-with-summary.field-label-hidden {
+    padding-top: 10px;
+    float: left;
+}
+.field-name-field-main-image {
+    float: left;
+    margin:1px;
+    box-shadow: 1px 1px 1px 1px #ccc;
+    padding: 1px;
+}
+.field-name-field-main-image img {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.mainsportsarea {
+    background: #fff;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.footer {
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-top: 0px solid #E5E5E5;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+section#block-block-7 img {
+    vertical-align: middle;
+    max-width: 100%;
+    padding-left: 15px;
+}
+.newsitem {
+    float: left;
+    padding-bottom: 16px;
+    background-color: #fff;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 0%;
+    padding-left: 0px;
+    margin-left: 0%;
+    border-bottom: thin solid #000;
+    width: 100%;
+}
+.newsitem:first-of-type {
+    float: left;
+    padding-bottom: 16px;
+    background-color: #fff;
+    padding-top: 35px;
+    margin-bottom: 10px;
+    margin-right: 0%;
+    padding-left: 0px;
+    margin-left: 0%;
+    border-bottom: thin solid #000;
+    width: 100%;
+}
+.newstitle {
+float: left;
+background-color: #666;
+margin-top: 1px;
+width: 100%;
+font-size: 16px;
+padding: 1%;
+}
+
+.newstitle a {
+color: white;
+text-decoration: none;
+}
+
+.newsimage img {
+float: left;
+padding-right: 3%; 
+padding-left: 0%;
+width: 135%;
+height: 135%;
+}
+
+.newsimage {
+float: left;
+padding-right: 3%; 
+padding-left: 0%;
+}
+.newsbody {
+    float: left;
+    width: 100%;
+    padding-top: 3%;
+}
+iframe { width: 100%; 
+}
+.casing {
+    float: left;
+    width: 100%;
+    padding-bottom: 5px;
+    background-color: #D3D3D3;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 3%;
+    padding-left: 4px;
+    margin-left: 0%;
+}
+.casetitle {
+float: left;
+background-color: #666;
+margin-top: 1px;
+width: 100%;
+padding: 1%;
+}
+
+.casetitle a {
+color: white;
+text-decoration: none;
+}
+
+.caseimages {
+float: left;
+padding-right: 3%; 
+}
+.caseimages img {
+float: left;
+padding-right: 0%; 
+padding-left: 0%;
+width:135%;
+height:135%;
+}
+
+.casemain {
+    float: left;
+    width: 100%;
+    padding-top: 3%;
+    padding-right: 3%;
+}
+
+#node-11 img {
+    width: 100%;
+    height: 100%;
+}
+.ds-2col-stacked > .student-text {
+    background-color: lightgray;
+    float: left;
+    margin: 20px 0 0;
+    padding-bottom: 40px;
+    width: 100%;
+}
+.ds-2col-stacked > .student-pic {
+    float: left;
+    width: 100%;
+    margin: 10px 0 0 0;
+    font-weight: bolder;
+}
+#node-20 img {
+    height: 100%;
+    width: 100%;
+}
+#block-block-7 img {
+    height: 100%;
+    width: 100%;
+}
+#block-block-11 img {
+    max-height: 100%;
+    max-width: 100%;
+}
+#block-block-10 img {
+    max-height: 100%;
+    max-width: 100%;
+}
+#node-26 img {
+    height: 100%;
+    width: 100%;
+}
+
+}
